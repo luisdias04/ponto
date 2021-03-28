@@ -1,0 +1,15 @@
+{
+    "name": "visitante/ponto",
+    "authors": [
+        {
+            "name": "LUIS CARLOS DA SILVA DIAS",
+            "email": "luisdias04@users.noreply.github.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : { 
+             "Src\\" : "/src"
+          }
+   },
+    "require": {}
+}
